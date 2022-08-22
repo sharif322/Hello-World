@@ -7,6 +7,7 @@ Submitted by: **Sharifboy Barotov**
 Time spent: **24** hours spent in total
 
 ## Required Features
+![Screenshot_20220606-194155_Gallery](https://user-images.githubusercontent.com/106754738/185858930-4925b69b-ad2b-4cce-93d5-ff3c4177215f.jpg)
 
 The following **required** functionality is completed:
 
