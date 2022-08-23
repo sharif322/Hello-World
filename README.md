@@ -7,7 +7,6 @@ Submitted by: **Sharifboy Barotov**
 Time spent: **24** hours spent in total
 
 ## Required Features
-![Screenshot_20220606-194155_Gallery](https://user-images.githubusercontent.com/106754738/185858930-4925b69b-ad2b-4cce-93d5-ff3c4177215f.jpg)
 
 The following **required** functionality is completed:
 
@@ -23,7 +22,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/![20220823_202754](https://user-images.githubusercontent.com/106754738/186202248-4b804b0f-f1e2-48a1-86c3-940333a4bcca.gif)
+link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
