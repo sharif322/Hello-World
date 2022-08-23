@@ -22,8 +22,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/![20220823_202754](https://user-images.githubusercontent.com/106754738/186202248-4b804b0f-f1e2-48a1-86c3-940333a4bcca.gif)
-link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![20220823_202754](https://user-images.githubusercontent.com/106754738/186204760-a094a3cf-ca8d-4cd4-af78-4b4e1811115a.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
